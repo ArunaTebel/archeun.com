@@ -12,7 +12,7 @@ hide_table_of_contents: false
 Compared to the other articles in this series, this article includes a set of short notes (recipes) that are useful to understand the Type system in JavaScript.
 
 It is a common misconception that JS does not have *types*. In contrast to typed languages, js follows a slightly different approach in handling types. As a ground rule, I usually adhere to the following statement when thinking about types in JS.
-
+<!--truncate-->
 > JavaScript variables do not have types, but the values those variables hold do!.
 
 *I found the above statement in the book [You Don't Know JS (book series) - 1st Edition](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed) written by  [Kyle Simpson](https://me.getify.com/). As a matter of fact, I was motivated to write this article after reading that book, and most of the examples are taken from it. I recommend reading that amazing book if you intend to be a professional JS developer.*
