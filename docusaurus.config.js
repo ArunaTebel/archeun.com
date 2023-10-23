@@ -52,27 +52,11 @@ const config = {
           alt: 'archeun logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {to: '/blog', label: 'Blog', position: 'left'},
-        ],
+        items: [],
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/archeun',
-              },
-            ],
-          },
-        ],
+        links: [],
         copyright: `Copyright © ${new Date().getFullYear()} archeun.`,
       },
       prism: {
