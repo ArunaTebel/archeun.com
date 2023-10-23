@@ -11,7 +11,7 @@ hide_table_of_contents: false
 If you are reading this post, there is a high chance that you might be using various software, apps, or tools at work and in your personal life. Haven't you ever wondered that most of those apps share a common set of features? Haven't you ever felt that most of them can be combined into one app or a platform so you can manage everything from a single place?
 
 Low or no-code platforms (will be referred to as 'low code platforms' hereafter) are there to solve this problem. In the first article of this series,  [Introduction to "Low | No Code Software Development"](https://archeun.hashnode.dev/introduction-to-low-or-no-code-software-development), I explained why such a discipline exists and its evolution.
-
+<!--truncate-->
 The motivation behind low code platforms is that one should not be using a variety of software apps to cater to their multiple similar requirements. There are Todo apps, Note-taking apps, Task trackers, project management apps, etc. out there providing a set of technically similar core functionalities. But to the end-user, they are drastically different because of the way those features are presented.
 
 Let me list down a few of the [X] Management Applications that are widely available in the market.

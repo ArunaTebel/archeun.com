@@ -20,7 +20,7 @@ In this post, we will find out why JavaScript inheritance looks different compar
 While JavaScript has gained huge popularity over the past decade, developers still struggle on understanding how it models *inheritance*. This is due to the unconventional way that JavaScript approaches this OOP concept.
 
 Let's see *why*, by starting from the basics.
-
+<!--truncate-->
 In simpler terms, we say that a language supports OOP if it implements the below principles.
 
 - Polymorphism

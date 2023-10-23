@@ -11,7 +11,7 @@ hide_table_of_contents: false
 # Humans like to automate things.
 
 Computing goes back to the age where our early ancestors used  [Abacus](https://en.wikipedia.org/wiki/Abacus) for calculations. Since then, the concepts like calculation, computation, data gathering, data processing have been evolved to a great extent. These concepts have played a vital role in the daily life of humans for a long time. As we evolved to be an intelligent race, there was one critically important skill which helped us to distinguish from other animals. That was the capability of **finding ways to automate things**.
-
+<!--truncate-->
 ![robot-automation.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1622099899689/9_cOZxkOX.jpeg)
 
 Humans were always good at building tools to ease their daily recurring tasks. They figured out how to combine those tools to build complex systems. Then they figured out how to use those systems to automate the recurring parts of their life. They built  [clocks run by water](https://en.wikipedia.org/wiki/Water_clock)  to keep track of time. They built wind powered spinning mills. It is the fundamental human nature to improve their tools to do more work for them; automatically, faster and better.

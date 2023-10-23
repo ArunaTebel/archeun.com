@@ -9,6 +9,7 @@ hide_table_of_contents: false
 ---
 
 The `prototype` of the Javascript `Function` object exposes two valuable methods named `call()` and `apply()`. In this article, we will see how to use these two methods effectively in our code. The content and some examples of this article are based on the  MDN documentation of the [`Function.prototype.call()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call) and [`Function.prototype.apply()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply).
+<!--truncate-->
 
 First, let's understand what each of these methods does.
 

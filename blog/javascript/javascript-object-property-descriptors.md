@@ -18,6 +18,7 @@ const user = {
 ``` 
 ## Javascript Object Property Descriptors
 Most of the time, developers deal with the `value` part of the object properties. We define object property values in a variety of ways ranging from strings, numbers, objects, and functions, etc. But we care less about the characteristics of the `property` part. Generally what we know about an object `property` is that,
+<!--truncate-->
 
 - They *must* be strings (even though we can use numeric values for object properties  in our code, they are automatically converted into strings at the run time)
 - Once a property is defined on an object, we can access the value of it using the dot notation (`user.name`), the square bracket notation (`user['name']`), or using the ES6 object destructuring mechanism (`const { username } = user`)
