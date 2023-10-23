@@ -33,6 +33,8 @@ const config = {
         blog: {
           routeBasePath: '/',
           showReadingTime: true,
+          blogTitle: 'archeun blog',
+          blogDescription: 'Another blog for software developers',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
