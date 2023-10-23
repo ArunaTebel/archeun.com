@@ -6,12 +6,9 @@ import Layout from '@theme/Layout';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary')}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-      </div>
-    </header>
+    <div style={{margin: '5% auto'}}>
+      <img src='img/logo.svg' height={`300px`}></img>
+    </div>
   );
 }
 
@@ -22,8 +19,6 @@ export default function Home() {
       title={`${siteConfig.title}`}
       description="archeun">
       <HomepageHeader />
-      <main>
-      </main>
     </Layout>
   );
 }
