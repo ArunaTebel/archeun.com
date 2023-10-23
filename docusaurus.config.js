@@ -35,6 +35,8 @@ const config = {
           showReadingTime: true,
           blogTitle: 'archeun blog',
           blogDescription: 'Another blog for software developers',
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
