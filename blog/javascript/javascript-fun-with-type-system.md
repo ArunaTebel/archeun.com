@@ -1,7 +1,7 @@
 ---
 title: "JavaScript - Fun with type system"
 description: An introduction to the JavaScript type system
-date: 2021-06-19
+date: 2022-01-17
 slug: javascript-fun-with-type-system
 authors: arunatebel
 tags: [javascript, types]

@@ -1,7 +1,7 @@
 ---
 title: Introduction to 'Low | No Code Software Development'
 description: Industry status, tools, ecosystem in the Low/No Code software development
-date: 2021-06-19
+date: 2021-05-27
 slug: intro-to-low-no-code-software-development
 authors: arunatebel
 tags: [lowcode, nocode]
