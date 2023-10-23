@@ -78,7 +78,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} archeun, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} archeun.`,
       },
       prism: {
         theme: lightCodeTheme,
