@@ -1,7 +1,7 @@
 ---
 title: "JavaScript - Inheritance Part I"
 description: An introduction to inheritance in JavaScript
-date: 2021-06-19
+date: 2021-08-28
 slug: javascript-inheritance-part-1
 authors: arunatebel
 tags: [javascript, inheritance]
