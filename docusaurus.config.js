@@ -75,6 +75,13 @@ const config = {
         algoliaOptions: {}
       },
     }),
+  scripts: [
+    {
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6319620576353785',
+      async: true,
+      crossorigin: 'anonymous',
+    }
+  ],
 };
 
 module.exports = config;
