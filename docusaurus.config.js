@@ -70,8 +70,9 @@ const config = {
       algolia: {
         apiKey: 'c02b3a2a962981c63b0e5b27a80d820c',
         indexName: 'archeun',
-        appId: 'DSM8M6TQN7', // Optional, if you run the DocSearch crawler on your own
-        algoliaOptions: {} // Optional, if provided by Algolia
+        appId: 'DSM8M6TQN7',
+        insights: true,
+        algoliaOptions: {}
       },
     }),
 };
